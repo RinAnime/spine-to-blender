@@ -4,7 +4,7 @@ bl_info = {
     "category": "RHS",
     "blender": (3, 6, 0),
     "version": (0, 0, 1),
-    "doc_url": "https://space.bilibili.com/2673673",
+    "doc_url": "",
     "location": "3D View > N Panel > RHS",
     "description": "",
     "warning": "不支持动画导入, 仅适配Spine3.8.json的部分内容导入(骨骼/网格)",
